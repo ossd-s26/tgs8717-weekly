@@ -3,8 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-## Brief Intro
 Hello, my name is Grace and I'm a senior majoring in **Computer Science** at NYU at the College of Arts & Science. I grew up in Queens, New York.
 
 My hobbies include:
