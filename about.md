@@ -20,6 +20,6 @@ Check out my [Goodreads](https://www.goodreads.com/user/show/59314213-afternoon-
 Feel free to reach out and connect!
 
 ## More Information
-Favorite Video Games: Final Fantasy, Persona, The Last of Us, Identity V, etc
-Favorite Overall Book Series: The Lunar Chronicles by Marissa Meyer
-Favorite Book of 2025: The Cruel Prince by Holly Black
+- **Favorite Video Games:** Final Fantasy, Persona, The Last of Us, Identity V, etc
+- **Favorite Overall Book Series:** The Lunar Chronicles by Marissa Meyer
+- **Favorite Book of 2025:** The Cruel Prince by Holly Black
